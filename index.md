@@ -17,8 +17,8 @@
 This project showcases my skills and knowledge in managing an ETL process for Loan Application and Credit Card datasets. Using Python, Apache Spark, SQL, and various Python libraries, I demonstrated my ability to handle data extraction, transformation, loading, and visualization.
 
 ---
-#### [AI Chat Bot: MindHelper - An AI-powered chatbot that provides real-time mental health support and stress relief guidance](/projects/FlightPricesPred.md)
-<img src="./images/fligh-price-pred/flight-price-pred.gif?raw=true"/>
+#### [AI Chat Bot: MindHelper - An AI-powered chatbot that provides real-time mental health support and stress relief guidance]([/projects/FlightPricesPred.md](https://www.linkedin.com/pulse/mindhelper-ai-powered-chatbot-provides-real-time-mental-howard-chou-8cu3e/))
+<img src="./images/ai-chatbot/MindHelper.png?raw=true"/>
 Predicting Flight Prices using PySpark’s MLlib
 
 
