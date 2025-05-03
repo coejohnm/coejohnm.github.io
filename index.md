@@ -12,8 +12,8 @@
 
 ---
 ### Learn About My Projects
-#### [Data Engineering: Loan And Credit Card ETL Project](https://www.linkedin.com/pulse/car-sales-supply-chain-managment-dashboard-howard-chou-kts6e/)
-[<img src="./images/Loan And Credit Card ETL Project.png?raw=true"/>]
+#### [Data Analytics: Supply Chain Dashboard](https://www.linkedin.com/pulse/car-sales-supply-chain-managment-dashboard-howard-chou-kts6e/)
+<img src="./images/scm-dashboard/SCM dashboard.png?raw=true"/>
 This project demonstrates my ability to manage end-to-end supply chain analytics. I used Python and MySQL for data extraction, transformation, and loading, and developed interactive Power BI dashboards to analyze supplier performance, regional logistics efficiency, and key risk indicators.
 
 ---
