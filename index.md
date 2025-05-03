@@ -12,14 +12,14 @@
 
 ---
 ### Learn About My Projects
-#### [Data Engineering: Loan And Credit Card ETL Project]([https://larrychencode.github.io/](https://www.linkedin.com/pulse/loan-credit-card-etl-project-larry-chen-liqne/))
-[<img src="./images/Loan And Credit Card ETL Project.png?raw=true"/>](https://www.linkedin.com/pulse/loan-credit-card-etl-project-larry-chen-liqne/)
-This project showcases my skills and knowledge in managing an ETL process for Loan Application and Credit Card datasets. Using Python, Apache Spark, SQL, and various Python libraries, I demonstrated my ability to handle data extraction, transformation, loading, and visualization.
+#### [Data Engineering: Loan And Credit Card ETL Project](https://www.linkedin.com/pulse/car-sales-supply-chain-managment-dashboard-howard-chou-kts6e/)
+[<img src="./images/Loan And Credit Card ETL Project.png?raw=true"/>]
+This project demonstrates my ability to manage end-to-end supply chain analytics. I used Python and MySQL for data extraction, transformation, and loading, and developed interactive Power BI dashboards to analyze supplier performance, regional logistics efficiency, and key risk indicators.
 
 ---
 #### [AI Chat Bot: MindHelper]([https://www.linkedin.com/pulse/mindhelper-ai-powered-chatbot-provides-real-time-mental-howard-chou-8cu3e/])
 <img src="./images/ai-chatbot/MindHelper.png?raw=true"/>
-Predicting Flight Prices using PySpark’s MLlib
+This project showcases my ability to develop a full-stack AI-powered web application focused on mental health support. Using Python, Flask, OpenAI's GPT-4 Turbo, HTML/CSS/JavaScript, and Render, I built an interactive chatbot that provides real-time emotional support and stress-relief strategies in both English and Chinese. The project highlights my skills in API integration, UI/UX design, and secure deployment practices.
 
 
 
